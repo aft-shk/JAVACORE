@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=sts
+Comment=Spring Tool Suite
+Icon=<Path of icon.xpm>/icon.xpm
+Exec=<Path of SpringToolSuite4>/SpringToolSuite4
+Terminal=false
+Categories=Development;IDE;Java;
+StartupWMClass=STS

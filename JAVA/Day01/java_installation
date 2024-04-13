@@ -1,0 +1,18 @@
+A) Commands to install Java jdk-11
+
+1) sudo apt-get update
+
+2) sudo apt-get install openjdk-11-jdk
+
+3) java --version
+
+B) Steps to download STS 4 4.22 Version
+
+1) Open new Terminal
+
+2) Give below command to check your CPU architecture
+   uname -m
+
+3) According to the O/P of above command
+Download STS 4 for Linux from below link ->
+https://spring.io/tools
